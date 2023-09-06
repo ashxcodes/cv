@@ -1,0 +1,13 @@
+Projects 
+1: Blog Post
+ A platform where People can login using there account credentials and
+ make posts of different categories, do comments, delete their posts.
+Back end was done in asp.Net
+Data base in Microsoft SQL
+Front end: HTML, CSS, JavaScript and jQuery
+2. Reactive to-do list
+Front end on angular
+Concepts learned and implemented:
+Components, Services, Modules, angular cdk, Routing, angular material. HTTP client. 
+My app is hosted on:
+https://reactive-to-do-list.vercel.app/
